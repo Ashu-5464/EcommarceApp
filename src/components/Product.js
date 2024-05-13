@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { Button } from 'bootstrap';
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, } from 'react';
 import { faBagShopping } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { login } from '../store/slice/UserSclice.js';
